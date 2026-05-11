@@ -1,4 +1,4 @@
-# 👋🏾 Hi, I'm Bukola Gold
+# 👋🏾 Hi, I'm Rashidat Oluwabukola Yusuf
 
 ### Special Educator · Story Writer · Content Creator · UI/UX Designer (in progress) · Data Analytics Enthusiast
 
