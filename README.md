@@ -8,21 +8,10 @@
 
 I help students and families navigate education with **clarity and confidence**, while building content and digital experiences that **educate, engage, and inspire**.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bsexygold&show_icons=true&theme=calm&hide_border=true" />
-</p>
+Whether you need inclusive educational support, content that resonates with young audiences, or data-driven insights told through compelling narratives — I bring all of it to the table.
 
 ---
 
-## 📫 Let's Connect
-
-- 🔗 **LinkedIn:** [linkedin.com/in/rashidat-oluwabukola-yusuf](https://www.linkedin.com/in/rashidat-oluwabukola-yusuf)
-- 📧 **Email:** [Biofadoju@gmail.com](mailto:Biofadoju@gmail.com)
-- 📅 **Book a Session:** [calendly.com/bukola123](https://calendly.com/bukola123)
 ## ✦ What I Do
 
 | Domain | Focus |
@@ -57,14 +46,16 @@ I help students and families navigate education with **clarity and confidence**,
 ## 📫 Let's Connect & Build Something That Matters
 
 - 🔗 **LinkedIn:** [linkedin.com/in/rashidat-oluwabukola-yusuf](https://www.linkedin.com/in/rashidat-oluwabukola-yusuf)
-- 📧 **Email:** `[Biofadoju@gmail.com]`
-- 📅 **Book a Session:** `[https://calendly.com/bukola123]`
+- 📧 **Email:** [Biofadoju@gmail.com](mailto:Biofadoju@gmail.com)
+- 📅 **Book a Session:** [calendly.com/bukola123](https://calendly.com/bukola123)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Bukola's GitHub Stats](https://github-readme-stats.vercel.app/api?bsexygolf &show_icons=true&theme=calm&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Bsexygold&color=blueviolet&style=flat-square&label=Profile+Views)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bsexygold&theme=calm&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
