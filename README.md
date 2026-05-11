@@ -47,8 +47,8 @@ Whether you need inclusive educational support, content that resonates with youn
 ## 📫 Let's Connect & Build Something That Matters
 
 - 🔗 **LinkedIn:** [linkedin.com/in/rashidat-oluwabukola-yusuf](https://www.linkedin.com/in/rashidat-oluwabukola-yusuf)
-- 📧 **Email:** `[your-email@example.com]`
-- 📅 **Book a Session:** `[your-booking-link]`
+- 📧 **Email:** `[Biofadoju@gmail.com]`
+- 📅 **Book a Session:** `[https://calendly.com/bukola123]`
 
 ---
 
