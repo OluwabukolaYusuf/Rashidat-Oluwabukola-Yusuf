@@ -1,4 +1,3 @@
-
 # 👋🏾 Hi, I'm Bukola Gold
 
 ### Special Educator · Story Writer · Content Creator · UI/UX Designer (in progress) · Data Analytics Enthusiast
@@ -9,10 +8,21 @@
 
 I help students and families navigate education with **clarity and confidence**, while building content and digital experiences that **educate, engage, and inspire**.
 
-Whether you need inclusive educational support, content that resonates with young audiences, or data-driven insights told through compelling narratives — I bring all of it to the table.
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bsexygold&show_icons=true&theme=calm&hide_border=true" />
+</p>
 
 ---
 
+## 📫 Let's Connect
+
+- 🔗 **LinkedIn:** [linkedin.com/in/rashidat-oluwabukola-yusuf](https://www.linkedin.com/in/rashidat-oluwabukola-yusuf)
+- 📧 **Email:** [Biofadoju@gmail.com](mailto:Biofadoju@gmail.com)
+- 📅 **Book a Session:** [calendly.com/bukola123](https://calendly.com/bukola123)
 ## ✦ What I Do
 
 | Domain | Focus |
