@@ -54,7 +54,7 @@ Whether you need inclusive educational support, content that resonates with youn
 
 ## 📊 GitHub Stats
 
-![Bukola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=calm&hide_border=true)
+![Bukola's GitHub Stats](https://github-readme-stats.vercel.app/api?bsexygolf &show_icons=true&theme=calm&hide_border=true)
 
 ---
 
